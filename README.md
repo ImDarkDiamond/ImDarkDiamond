@@ -4,7 +4,7 @@ I've been developing for almost 5 years now and have no plans on stopping anytim
 
 ## Projects
 - 🤖 [`Arcane`](https://arcane.bot) - A super customizable bot for the Discord platform with many features such as leveling, moderation, and more. Written in Rust and TypeScript. 
-- 🤖 [`Server Captcha Bot`](https://servercaptchabot.xyz) - A discord bot to prevent automated raids. 
+- 🤖 [`Captcha.bot`](https://captcha.bot) - A discord bot to prevent automated raids. 
 
 ## Old Projects
 - 💯 [`Redis Sharder`](https://github.com/arcanebot/redis-sharder) - One of the simplest and robust sharding libraries for Discord bots using Eris. Previously used in production with `Arcane` but Eris no longer scaled as far as we thought it would.
@@ -18,5 +18,4 @@ I've been developing for almost 5 years now and have no plans on stopping anytim
 - `Rust`
 - `Redis`
 - `MongoDB`
-- `TypeScript`
 - `Grafana`
